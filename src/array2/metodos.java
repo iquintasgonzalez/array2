@@ -2,7 +2,7 @@
 package array2;
 
 /**
- *
+ *@version 2.1
  * @author iquintasgonzalez
  */
 public class metodos {
