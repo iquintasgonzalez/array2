@@ -21,9 +21,7 @@ public class metodos {
             break;
         }
     
-    if atopado=0;
-        System.out.println("non esta ese xogador");
-        break;
+    
     
 }
 
